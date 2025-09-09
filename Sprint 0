@@ -1,5 +1,5 @@
 Object-Oriented programming language: Python
-GUI library: PyQt5
+GUI library: tkinter
 IDE: Visual Studio
 xUnit framework: PyUnit
 programming style guide: Google Python Style Guide
